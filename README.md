@@ -18,7 +18,11 @@ TODO:
 * 调试说明
 * 运行操作
 * 效果
-* 代码说明
+* 代码说明  
+![](https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem/blob/main/im_md/%E6%97%A0%E8%BD%A8%E9%81%93.gif "无轨道")
+![](https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem/blob/main/im_md/%E4%B8%89%E8%BD%A8%E9%81%93.gif "行星轨道")
+![](https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem/blob/main/im_md/%E5%8E%86%E5%8F%B2%E8%BD%A8%E9%81%931.gif "历史轨道差异_蝴蝶效应")
+![](https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem/blob/main/im_md/%E6%9E%81%E7%AB%AF.gif "极端情况")
 
 编写环境
 ---
