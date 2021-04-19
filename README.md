@@ -130,7 +130,7 @@ TODO:
 * 键盘输入 keyEvent()+keyReleased()  
 
 ### 核心代码 <code & index/sketch.js>
-注释+代码结构+思路应该能看
+注释+代码结构+思路应该能看懂
 ```javascript
 /* 混沌-三体模型演示
 *	学号：1191180331
@@ -213,7 +213,7 @@ class star {
 	}
 	// 与另一star的距离方向
 	getDirection(star){
-		// 引力公式无正负，*位置差/位差绝对值->位置差
+		// 引力公式无正负，*位置差/位差绝对值->引力方向
 		var dis = this.location.copy().sub(star.location);
 		dis.x = -1*dis.x/Math.abs(dis.x);
 		dis.y = -1*dis.y/Math.abs(dis.y);
