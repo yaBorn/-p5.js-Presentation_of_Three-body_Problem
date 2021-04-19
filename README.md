@@ -4,8 +4,8 @@
 转载请保留原作者yaBorn的原文地址：https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem  
 
 TODO:  
-  1.报告编写ing OK  
-  2.加入图片
+  1.报告编写 OK  
+  2.加入图片ing
 ---
 班级：数媒1803班  
 姓名：杨博文  
