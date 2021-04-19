@@ -1,13 +1,15 @@
 # -p5.js-Presentation_of_Three-body_Problem
 【p5.js】三体模型演示
 ===
+转载请保留原作者yaBorn的原文地址：https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem  
+
 TODO:  
   1.报告编写ing OK  
   2.加入图片
 ---
-班级：数媒1803班
-姓名：杨博文
-学号：1191180331
+班级：数媒1803班  
+姓名：杨博文  
+学号：1191180331  
 
 目录
 ---
