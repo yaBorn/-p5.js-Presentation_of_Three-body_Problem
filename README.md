@@ -19,7 +19,8 @@ TODO:
 * 调试说明
 * 运行操作
 * 效果
-* 代码说明  
+* 代码说明
+* 提示  
 
 此处应有动图*4(应该显示出来了吧(慌))(可能未显示，图片在<im_rd>中)  
 ![](https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem/blob/main/im_md/%E6%97%A0%E8%BD%A8%E9%81%93.gif "无轨道")
@@ -444,3 +445,7 @@ function keyReleased() {
 	lastKey = null; // 升起按键重置lastkey
 }
 ```
+提示
+---
+本项目使用 Apache 2.0 license.<br>
+更多关于**许可**和**致谢**, 请参见 [LICENSE](LICENSE).
