@@ -7,13 +7,13 @@ TODO:
   1.报告编写 OK  
   2.加入图片 ing  
   3.部署.com
----
+===
 班级：数媒1803班  
 姓名：杨博文  
 学号：1191180331  
 
 目录
----
+===
 * 编写环境
 * 文件结构
 * 调试说明
@@ -32,13 +32,13 @@ TODO:
 ![](https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem/blob/main/im_md/%E6%9E%81%E7%AB%AF.gif "极端情况")
 
 编写环境
----
+===
 * VScode
 * VScode_Debugger for Chrome
 * Chrome
 
 文件结构
----
+===
 >根目录
 >>addons文件夹
 >>>p5.sound.js  
@@ -56,7 +56,7 @@ TODO:
 >>p5.js  
 
 调试说明
----
+===
 1. 下载 <源-p5.js-PoTbP.rar> 解压。
 2. 或者下载 <标识-源程序> 到根目录，新建文件夹“.vscode”，将launch放入。
 3. vscode打开根目录。
@@ -66,7 +66,7 @@ TODO:
 ----------------------此处插入一张图片
 
 运行操作
----
+===
 <操作说明.txt>
 <code & index/sketch.js>
 以上文件均含操作说明
@@ -85,12 +85,12 @@ TODO:
 ----------------------此处插入n张gif
 
 效果
----
+===
 实验目的：模拟三体模型，每次空格重置将会改变小黄星的微小初始值，与重置前运行轨道对比。发现两个轨道因为初始的差异导致后期巨大的不同。符合复杂系统中的蝴蝶效应。而且很好玩，很好玩，能看三个球球看一天。好耶！  
 ----------------------此处插入n张gif
 
 代码说明
----
+===
 <launch.json>和<index.html>的调试代码略过，主要是<sketch.js>的绘制代码。  
 <code & index/sketch.js>同时也是核心代码  
 其实注释的很详细，根据<代码结构+注释>应该好理解。
@@ -449,6 +449,6 @@ function keyReleased() {
 }
 ```
 提示
----
+===
 本项目使用 Apache 2.0 license.<br>
 更多关于**许可**和**致谢**, 请参见 [LICENSE](LICENSE).
