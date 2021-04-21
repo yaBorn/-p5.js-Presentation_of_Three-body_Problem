@@ -1,4 +1,4 @@
-# Presentation_of_Three-body_Problem
+# Visualization_of_Three-body_Problem
 【p5.js】三体模型演示
 ===
 转载与调用请保留并注释原作者yaBorn的原文地址：https://github.com/yaBorn/-p5.js-Presentation_of_Three-body_Problem  
